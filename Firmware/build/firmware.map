@@ -1,15 +1,15 @@
 Archive member included to satisfy reference by file (symbol)
 
 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-putchar.o)
-                              /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o (putchar)
+                              Firmware/build/Firmware/Core/Src/syscalls.o (putchar)
 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-snprintf.o)
-                              /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o (snprintf)
+                              Firmware/build/Firmware/Core/Src/main.o (snprintf)
 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
                               /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-putchar.o) (_impure_ptr)
 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-errno.o)
-                              /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o (__errno)
+                              Firmware/build/Firmware/Core/Src/syscalls.o (__errno)
 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-init.o)
-                              /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o (__libc_init_array)
+                              Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o (__libc_init_array)
 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-svfprintf.o)
                               /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-snprintf.o) (_svfprintf_r)
 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-putc.o)
@@ -153,463 +153,463 @@ Archive member included to satisfy reference by file (symbol)
 
 Discarded input sections
 
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Core/Src/main.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Core/Src/main.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Core/Src/main.o
  .text.moveServo
-                0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .rodata.usart_puthex.str1.1
-                0x00000000       0x11 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .text.usart_puthex
-                0x00000000       0x5c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .text.getchar  0x00000000       0x30 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x6d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
+                0x00000000        0xc Firmware/build/Firmware/Core/Src/main.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/gpio.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Core/Src/gpio.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Core/Src/gpio.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Core/Src/gpio.o
  .text.nop_delay
-                0x00000000       0x20 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x6d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+                0x00000000       0x20 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000      0xad2 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x2f Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x8e Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x51 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000      0x103 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x6a Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000      0x1df Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000      0x26d Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x28 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000     0x11ae Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000      0x11f Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000    0x15ea5 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x6d Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/gpio.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/usart.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Core/Src/usart.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Core/Src/usart.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Core/Src/usart.o
+ .rodata.usart_puthex.str1.1
+                0x00000000       0x11 Firmware/build/Firmware/Core/Src/usart.o
+ .text.usart_puthex
+                0x00000000       0x5c Firmware/build/Firmware/Core/Src/usart.o
+ .text.getchar  0x00000000       0x30 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000      0xad2 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x8e Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x51 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000      0x103 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x6a Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000      0x1df Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x2f Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000      0x26d Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x28 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000     0x11ae Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000      0x11f Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000    0x15ea5 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x6d Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/usart.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/pins.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Core/Src/pins.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Core/Src/pins.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Core/Src/pins.o
  .data.greenLed
-                0x00000000        0x8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x6d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x6d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x7b /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x2a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x3c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x9e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0x364 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0x112 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x4a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0x1e5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00000000      0x170 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x6d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x6d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .group         0x00000000        0xc /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .text          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+                0x00000000        0x8 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000      0xad2 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x2f Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x8e Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x51 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000      0x103 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x6a Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000      0x1df Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000      0x26d Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x28 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000     0x11ae Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000      0x11f Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000    0x15ea5 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x6d Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/pins.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/syscalls.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Core/Src/syscalls.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Core/Src/syscalls.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0xad2 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x2f Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x8e Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x51 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0x103 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x6a Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0x1df Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0x26d Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x28 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000     0x11ae Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0x11f Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000    0x15ea5 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x6d Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x7b Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x2a Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x3c Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x34 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x9e Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0x364 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0x112 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x4a Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x34 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0x1e5 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00000000      0x170 Firmware/build/Firmware/Core/Src/syscalls.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/utils.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Core/Src/utils.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Core/Src/utils.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000      0xad2 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x8e Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x51 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000      0x103 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x6a Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000      0x1df Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x2f Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000      0x26d Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x28 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000     0x11ae Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000      0x11f Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000    0x15ea5 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x6d Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/utils.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/tim.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Core/Src/tim.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Core/Src/tim.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000      0xad2 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x2f Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x8e Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x51 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000      0x103 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x6a Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000      0x1df Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000      0x26d Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x28 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000     0x11ae Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000      0x11f Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000    0x15ea5 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/tim.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Core/Src/hcsr04.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000      0xad2 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x2f Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x8e Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x51 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000      0x103 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x6a Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000      0x1df Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000      0x26d Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x28 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000     0x11ae Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000      0x11f Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000    0x15ea5 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x6d Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x16 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .group         0x00000000        0xc Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .text          0x00000000        0x0 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
  .text.SystemCoreClockUpdate
-                0x00000000       0x6c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+                0x00000000       0x6c Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
  .rodata.APBPrescTable
-                0x00000000        0x8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+                0x00000000        0x8 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
  .rodata.AHBPrescTable
-                0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_macro   0x00000000       0x6d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .text          0x00000000       0x14 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
- .data          0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
- .bss           0x00000000        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+                0x00000000       0x10 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000      0xad2 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x2f Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x22 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x8e Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x51 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x103 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x6a Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x1df Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x2e Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x10 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x58 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x26d Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x28 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000     0x11ae Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x11f Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000    0x15ea5 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x6d Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+ .text          0x00000000       0x14 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o
+ .data          0x00000000        0x0 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o
+ .bss           0x00000000        0x0 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o
  .text          0x00000000        0x0 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-putchar.o)
  .data          0x00000000        0x0 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-putchar.o)
  .bss           0x00000000        0x0 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-putchar.o)
@@ -1053,28 +1053,19 @@ FLASH            0x08000000         0x00100000         xr
 
 Linker script and memory map
 
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
-LOAD /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
-LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
-LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon.a
-LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a
-START GROUP
-LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a
-LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a
-LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
-END GROUP
+LOAD Firmware/build/Firmware/Core/Src/main.o
+LOAD Firmware/build/Firmware/Core/Src/gpio.o
+LOAD Firmware/build/Firmware/Core/Src/usart.o
+LOAD Firmware/build/Firmware/Core/Src/pins.o
+LOAD Firmware/build/Firmware/Core/Src/syscalls.o
+LOAD Firmware/build/Firmware/Core/Src/utils.o
+LOAD Firmware/build/Firmware/Core/Src/tim.o
+LOAD Firmware/build/Firmware/Core/Src/hcsr04.o
+LOAD Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
+LOAD Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o
 START GROUP
 LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a
 LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
-LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon.a
 END GROUP
                 0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
                 0x00000200                        _Min_Heap_Size = 0x200
@@ -1083,7 +1074,7 @@ END GROUP
 .isr_vector     0x08000000      0x188
                 0x08000000                        . = ALIGN (0x4)
  *(.isr_vector)
- .isr_vector    0x08000000      0x188 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+ .isr_vector    0x08000000      0x188 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o
                 0x08000000                g_pfnVectors
                 0x08000188                        . = ALIGN (0x4)
 
@@ -1142,106 +1133,106 @@ END GROUP
                 0x08000d64                __aeabi_d2iz
  *(.text*)
  .text.enableTIM
-                0x08000db4       0x70 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x08000db4       0x70 Firmware/build/Firmware/Core/Src/main.o
                 0x08000db4                enableTIM
  .text.configServoControlSignal
-                0x08000e24       0x98 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x08000e24       0x98 Firmware/build/Firmware/Core/Src/main.o
                 0x08000e24                configServoControlSignal
  .text.TIM4_IRQHandler
-                0x08000ebc       0x30 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x08000ebc       0x30 Firmware/build/Firmware/Core/Src/main.o
                 0x08000ebc                TIM4_IRQHandler
  .text.setup_sensor_timer
-                0x08000eec       0x44 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x08000eec       0x44 Firmware/build/Firmware/Core/Src/main.o
                 0x08000eec                setup_sensor_timer
  .text.SystemClock_Config
-                0x08000f30       0x84 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x08000f30       0x84 Firmware/build/Firmware/Core/Src/main.o
                 0x08000f30                SystemClock_Config
  .text.startup.main
-                0x08000fb4      0x128 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x08000fb4      0x128 Firmware/build/Firmware/Core/Src/main.o
                 0x08000fb4                main
- .text.USART_Init
-                0x080010dc       0x94 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
-                0x080010dc                USART_Init
- .text.USART3_IRQHandler
-                0x08001170       0x90 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
-                0x08001170                USART3_IRQHandler
- .text.usart_putchar
-                0x08001200       0x40 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
-                0x08001200                usart_putchar
- .text.usart_puts
-                0x08001240       0x20 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
-                0x08001240                usart_puts
  .text.GPIO_Write
-                0x08001260       0x26 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
-                0x08001260                GPIO_Write
- *fill*         0x08001286        0x2 
+                0x080010dc       0x26 Firmware/build/Firmware/Core/Src/gpio.o
+                0x080010dc                GPIO_Write
+ *fill*         0x08001102        0x2 
  .text.GPIO_EnablePortA
-                0x08001288       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
-                0x08001288                GPIO_EnablePortA
+                0x08001104       0x10 Firmware/build/Firmware/Core/Src/gpio.o
+                0x08001104                GPIO_EnablePortA
  .text.GPIO_EnablePortB
-                0x08001298       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
-                0x08001298                GPIO_EnablePortB
+                0x08001114       0x10 Firmware/build/Firmware/Core/Src/gpio.o
+                0x08001114                GPIO_EnablePortB
  .text.GPIO_EnablePortD
-                0x080012a8       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
-                0x080012a8                GPIO_EnablePortD
+                0x08001124       0x10 Firmware/build/Firmware/Core/Src/gpio.o
+                0x08001124                GPIO_EnablePortD
  .text.GPIO_EnablePortE
-                0x080012b8       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
-                0x080012b8                GPIO_EnablePortE
+                0x08001134       0x10 Firmware/build/Firmware/Core/Src/gpio.o
+                0x08001134                GPIO_EnablePortE
  .text.GPIO_Init
-                0x080012c8       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
-                0x080012c8                GPIO_Init
- .text._init    0x08001320        0x2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+                0x08001144       0x58 Firmware/build/Firmware/Core/Src/gpio.o
+                0x08001144                GPIO_Init
+ .text.USART_Init
+                0x0800119c       0x94 Firmware/build/Firmware/Core/Src/usart.o
+                0x0800119c                USART_Init
+ .text.USART3_IRQHandler
+                0x08001230       0x90 Firmware/build/Firmware/Core/Src/usart.o
+                0x08001230                USART3_IRQHandler
+ .text.usart_putchar
+                0x080012c0       0x40 Firmware/build/Firmware/Core/Src/usart.o
+                0x080012c0                usart_putchar
+ .text.usart_puts
+                0x08001300       0x20 Firmware/build/Firmware/Core/Src/usart.o
+                0x08001300                usart_puts
+ .text._init    0x08001320        0x2 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x08001320                _init
- .text._fini    0x08001322        0x2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._fini    0x08001322        0x2 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x08001322                _fini
- .text._sbrk    0x08001324       0x1c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._sbrk    0x08001324       0x1c Firmware/build/Firmware/Core/Src/syscalls.o
                 0x08001324                _sbrk
- .text._write   0x08001340       0x1a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._write   0x08001340       0x1a Firmware/build/Firmware/Core/Src/syscalls.o
                 0x08001340                _write
- .text._close   0x0800135a        0x6 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._close   0x0800135a        0x6 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x0800135a                _close
- .text._fstat   0x08001360        0xa /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._fstat   0x08001360        0xa Firmware/build/Firmware/Core/Src/syscalls.o
                 0x08001360                _fstat
- .text._isatty  0x0800136a        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._isatty  0x0800136a        0x4 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x0800136a                _isatty
- .text._lseek   0x0800136e        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._lseek   0x0800136e        0x4 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x0800136e                _lseek
- .text._read    0x08001372        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._read    0x08001372        0x4 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x08001372                _read
- .text._exit    0x08001376        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._exit    0x08001376        0x4 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x08001376                _exit
- .text._kill    0x0800137a       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._kill    0x0800137a       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x0800137a                _kill
- .text._getpid  0x0800138a        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .text._getpid  0x0800138a        0x4 Firmware/build/Firmware/Core/Src/syscalls.o
                 0x0800138a                _getpid
  *fill*         0x0800138e        0x2 
  .text.delay_us
-                0x08001390       0x2c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
+                0x08001390       0x2c Firmware/build/Firmware/Core/Src/utils.o
                 0x08001390                delay_us
  .text.delay_ms
-                0x080013bc       0x14 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
+                0x080013bc       0x14 Firmware/build/Firmware/Core/Src/utils.o
                 0x080013bc                delay_ms
  .text.TIM_Init
-                0x080013d0       0x60 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
+                0x080013d0       0x60 Firmware/build/Firmware/Core/Src/tim.o
                 0x080013d0                TIM_Init
  .text.TIM_Enable
-                0x08001430       0x12 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
+                0x08001430       0x12 Firmware/build/Firmware/Core/Src/tim.o
                 0x08001430                TIM_Enable
  .text.TIM_Set_Counter
-                0x08001442        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
+                0x08001442        0x4 Firmware/build/Firmware/Core/Src/tim.o
                 0x08001442                TIM_Set_Counter
  *fill*         0x08001446        0x2 
  .text.HCSR04_Read
-                0x08001448      0x140 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
+                0x08001448      0x140 Firmware/build/Firmware/Core/Src/hcsr04.o
                 0x08001448                HCSR04_Read
  .text.SystemInit
-                0x08001588       0x14 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+                0x08001588       0x14 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
                 0x08001588                SystemInit
  .text.Reset_Handler
-                0x0800159c       0x50 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+                0x0800159c       0x50 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o
                 0x0800159c                Reset_Handler
  .text.Default_Handler
-                0x080015ec        0x2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+                0x080015ec        0x2 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o
                 0x080015ec                DMA1_Stream3_IRQHandler
                 0x080015ec                HASH_RNG_IRQHandler
                 0x080015ec                EXTI2_IRQHandler
@@ -1560,17 +1551,17 @@ END GROUP
  .v4_bx         0x08008390        0x0 linker stubs
 
 .iplt           0x08008390        0x0
- .iplt          0x08008390        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+ .iplt          0x08008390        0x0 Firmware/build/Firmware/Core/Src/main.o
 
 .rodata         0x08008390      0x490
                 0x08008390                        . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.main.str1.1
-                0x08008390       0x93 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x08008390       0x93 Firmware/build/Firmware/Core/Src/main.o
                                  0x27 (size before relaxing)
  .rodata.HCSR04_Read.str1.1
-                0x08008423       0x6c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
+                0x08008423       0x6c Firmware/build/Firmware/Core/Src/hcsr04.o
  *fill*         0x08008423        0x1 
  .rodata._svfprintf_r.str1.4
                 0x08008424      0x1b7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-svfprintf.o)
@@ -1626,7 +1617,7 @@ END GROUP
                 0x08008828                        . = ALIGN (0x4)
 
 .rel.dyn        0x08008828        0x0
- .rel.iplt      0x08008828        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+ .rel.iplt      0x08008828        0x0 Firmware/build/Firmware/Core/Src/main.o
 
 .preinit_array  0x08008828        0x0
                 0x08008828                        . = ALIGN (0x4)
@@ -1658,26 +1649,26 @@ END GROUP
  *(.data)
  *(.data*)
  .data.green_led
-                0x20000000        0x8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
+                0x20000000        0x8 Firmware/build/Firmware/Core/Src/usart.o
                 0x20000000                green_led
  .data.servo_control_signal
-                0x20000008        0x8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+                0x20000008        0x8 Firmware/build/Firmware/Core/Src/pins.o
                 0x20000008                servo_control_signal
- .data.echoPin  0x20000010        0x8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+ .data.echoPin  0x20000010        0x8 Firmware/build/Firmware/Core/Src/pins.o
                 0x20000010                echoPin
- .data.trigPin  0x20000018        0x8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+ .data.trigPin  0x20000018        0x8 Firmware/build/Firmware/Core/Src/pins.o
                 0x20000018                trigPin
  .data.tim_servo
-                0x20000020        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+                0x20000020        0x4 Firmware/build/Firmware/Core/Src/pins.o
                 0x20000020                tim_servo
  .data.tim_delay
-                0x20000024        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+                0x20000024        0x4 Firmware/build/Firmware/Core/Src/pins.o
                 0x20000024                tim_delay
  .data.tim_hcsr04
-                0x20000028        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+                0x20000028        0x4 Firmware/build/Firmware/Core/Src/pins.o
                 0x20000028                tim_hcsr04
  .data.SystemCoreClock
-                0x2000002c        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+                0x2000002c        0x4 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
                 0x2000002c                SystemCoreClock
  .data._impure_ptr
                 0x20000030        0x4 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
@@ -1707,7 +1698,7 @@ END GROUP
                 0x080090d0                        _siccmram = LOADADDR (.ccmram)
 
 .igot.plt       0x200008a8        0x0 load address 0x080090d0
- .igot.plt      0x200008a8        0x0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+ .igot.plt      0x200008a8        0x0 Firmware/build/Firmware/Core/Src/main.o
 
 .ccmram         0x10000000        0x0 load address 0x080090d0
                 0x10000000                        . = ALIGN (0x4)
@@ -1724,19 +1715,19 @@ END GROUP
  *(.bss)
  *(.bss*)
  .bss.distance_ready
-                0x200008a8        0x1 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x200008a8        0x1 Firmware/build/Firmware/Core/Src/main.o
                 0x200008a8                distance_ready
  *fill*         0x200008a9        0x3 
  .bss.last_distance
-                0x200008ac        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x200008ac        0x4 Firmware/build/Firmware/Core/Src/main.o
                 0x200008ac                last_distance
- .bss.rx_tail   0x200008b0        0x2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .bss.rx_head   0x200008b2        0x2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .bss.tx_tail   0x200008b4        0x2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .bss.tx_head   0x200008b6        0x2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .bss.rx_buf    0x200008b8       0x80 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .bss.tx_buf    0x20000938       0x80 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .bss.heap_end  0x200009b8        0x4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+ .bss.rx_tail   0x200008b0        0x2 Firmware/build/Firmware/Core/Src/usart.o
+ .bss.rx_head   0x200008b2        0x2 Firmware/build/Firmware/Core/Src/usart.o
+ .bss.tx_tail   0x200008b4        0x2 Firmware/build/Firmware/Core/Src/usart.o
+ .bss.tx_head   0x200008b6        0x2 Firmware/build/Firmware/Core/Src/usart.o
+ .bss.rx_buf    0x200008b8       0x80 Firmware/build/Firmware/Core/Src/usart.o
+ .bss.tx_buf    0x20000938       0x80 Firmware/build/Firmware/Core/Src/usart.o
+ .bss.heap_end  0x200009b8        0x4 Firmware/build/Firmware/Core/Src/syscalls.o
  .bss.__sf      0x200009bc      0x138 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
                 0x200009bc                __sf
  .bss.__stdio_exit_handler
@@ -1789,25 +1780,25 @@ END GROUP
                 0x00000000       0x32
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x00000000       0x34 Firmware/build/Firmware/Core/Src/main.o
  .ARM.attributes
-                0x00000034       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
+                0x00000034       0x34 Firmware/build/Firmware/Core/Src/gpio.o
  .ARM.attributes
-                0x00000068       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
+                0x00000068       0x34 Firmware/build/Firmware/Core/Src/usart.o
  .ARM.attributes
-                0x0000009c       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+                0x0000009c       0x34 Firmware/build/Firmware/Core/Src/pins.o
  .ARM.attributes
-                0x000000d0       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+                0x000000d0       0x34 Firmware/build/Firmware/Core/Src/syscalls.o
  .ARM.attributes
-                0x00000104       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
+                0x00000104       0x34 Firmware/build/Firmware/Core/Src/utils.o
  .ARM.attributes
-                0x00000138       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
+                0x00000138       0x34 Firmware/build/Firmware/Core/Src/tim.o
  .ARM.attributes
-                0x0000016c       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
+                0x0000016c       0x34 Firmware/build/Firmware/Core/Src/hcsr04.o
  .ARM.attributes
-                0x000001a0       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+                0x000001a0       0x34 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
  .ARM.attributes
-                0x000001d4       0x21 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+                0x000001d4       0x21 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.o
  .ARM.attributes
                 0x000001f5       0x34 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-putchar.o)
  .ARM.attributes
@@ -1932,213 +1923,205 @@ END GROUP
                 0x00000dab       0x22 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_unorddf2.o)
  .ARM.attributes
                 0x00000dcd       0x22 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
-OUTPUT(firmware.elf elf32-littlearm)
+OUTPUT(Firmware/build/firmware.elf elf32-littlearm)
 LOAD linker stubs
 LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
 LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
 LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a
 
-.debug_info     0x00000000     0x371c
- .debug_info    0x00000000      0xf80 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_info    0x00000f80      0xa50 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_info    0x000019d0      0x3e8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_info    0x00001db8      0x323 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_info    0x000020db      0x559 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_info    0x00002634      0x27a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_info    0x000028ae      0x439 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_info    0x00002ce7      0x4b1 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_info    0x00003198      0x554 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_info    0x000036ec       0x30 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+.debug_info     0x00000000     0x36ec
+ .debug_info    0x00000000      0xf80 Firmware/build/Firmware/Core/Src/main.o
+ .debug_info    0x00000f80      0x3e8 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_info    0x00001368      0xa50 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_info    0x00001db8      0x323 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_info    0x000020db      0x559 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_info    0x00002634      0x27a Firmware/build/Firmware/Core/Src/utils.o
+ .debug_info    0x000028ae      0x439 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_info    0x00002ce7      0x4b1 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_info    0x00003198      0x554 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
-.debug_abbrev   0x00000000     0x105a
- .debug_abbrev  0x00000000      0x388 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_abbrev  0x00000388      0x2bb /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_abbrev  0x00000643      0x19f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_abbrev  0x000007e2       0xf7 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_abbrev  0x000008d9      0x1e2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_abbrev  0x00000abb      0x145 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_abbrev  0x00000c00      0x169 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_abbrev  0x00000d69      0x18e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_abbrev  0x00000ef7      0x13f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_abbrev  0x00001036       0x24 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+.debug_abbrev   0x00000000     0x1036
+ .debug_abbrev  0x00000000      0x388 Firmware/build/Firmware/Core/Src/main.o
+ .debug_abbrev  0x00000388      0x19f Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_abbrev  0x00000527      0x2bb Firmware/build/Firmware/Core/Src/usart.o
+ .debug_abbrev  0x000007e2       0xf7 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_abbrev  0x000008d9      0x1e2 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_abbrev  0x00000abb      0x145 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_abbrev  0x00000c00      0x169 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_abbrev  0x00000d69      0x18e Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_abbrev  0x00000ef7      0x13f Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
 .debug_loclists
                 0x00000000      0x520
  .debug_loclists
-                0x00000000       0xf8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x00000000       0xf8 Firmware/build/Firmware/Core/Src/main.o
  .debug_loclists
-                0x000000f8       0xd3 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
+                0x000000f8       0x82 Firmware/build/Firmware/Core/Src/gpio.o
  .debug_loclists
-                0x000001cb       0x82 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
+                0x0000017a       0xd3 Firmware/build/Firmware/Core/Src/usart.o
  .debug_loclists
-                0x0000024d      0x171 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+                0x0000024d      0x171 Firmware/build/Firmware/Core/Src/syscalls.o
  .debug_loclists
-                0x000003be       0x54 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
+                0x000003be       0x54 Firmware/build/Firmware/Core/Src/utils.o
  .debug_loclists
-                0x00000412       0x57 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
+                0x00000412       0x57 Firmware/build/Firmware/Core/Src/tim.o
  .debug_loclists
-                0x00000469       0x43 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
+                0x00000469       0x43 Firmware/build/Firmware/Core/Src/hcsr04.o
  .debug_loclists
-                0x000004ac       0x74 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+                0x000004ac       0x74 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
-.debug_aranges  0x00000000      0x240
+.debug_aranges  0x00000000      0x218
  .debug_aranges
-                0x00000000       0x50 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x00000000       0x50 Firmware/build/Firmware/Core/Src/main.o
  .debug_aranges
-                0x00000050       0x48 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
+                0x00000050       0x50 Firmware/build/Firmware/Core/Src/gpio.o
  .debug_aranges
-                0x00000098       0x50 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
+                0x000000a0       0x48 Firmware/build/Firmware/Core/Src/usart.o
  .debug_aranges
-                0x000000e8       0x18 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
+                0x000000e8       0x18 Firmware/build/Firmware/Core/Src/pins.o
  .debug_aranges
-                0x00000100       0x78 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+                0x00000100       0x78 Firmware/build/Firmware/Core/Src/syscalls.o
  .debug_aranges
-                0x00000178       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
+                0x00000178       0x28 Firmware/build/Firmware/Core/Src/utils.o
  .debug_aranges
-                0x000001a0       0x30 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
+                0x000001a0       0x30 Firmware/build/Firmware/Core/Src/tim.o
  .debug_aranges
-                0x000001d0       0x20 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
+                0x000001d0       0x20 Firmware/build/Firmware/Core/Src/hcsr04.o
  .debug_aranges
-                0x000001f0       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_aranges
-                0x00000218       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+                0x000001f0       0x28 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
 .debug_rnglists
-                0x00000000      0x1e2
+                0x00000000      0x1c9
  .debug_rnglists
-                0x00000000       0x6f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+                0x00000000       0x6f Firmware/build/Firmware/Core/Src/main.o
  .debug_rnglists
-                0x0000006f       0x3f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
+                0x0000006f       0x46 Firmware/build/Firmware/Core/Src/gpio.o
  .debug_rnglists
-                0x000000ae       0x46 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
+                0x000000b5       0x3f Firmware/build/Firmware/Core/Src/usart.o
  .debug_rnglists
-                0x000000f4       0x64 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
+                0x000000f4       0x64 Firmware/build/Firmware/Core/Src/syscalls.o
  .debug_rnglists
-                0x00000158       0x19 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
+                0x00000158       0x19 Firmware/build/Firmware/Core/Src/utils.o
  .debug_rnglists
-                0x00000171       0x2b /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
+                0x00000171       0x2b Firmware/build/Firmware/Core/Src/tim.o
  .debug_rnglists
-                0x0000019c       0x14 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
+                0x0000019c       0x14 Firmware/build/Firmware/Core/Src/hcsr04.o
  .debug_rnglists
-                0x000001b0       0x19 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_rnglists
-                0x000001c9       0x19 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+                0x000001b0       0x19 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
 .debug_macro    0x00000000    0x1a772
- .debug_macro   0x00000000      0x226 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000226      0xad2 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000cf8       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000d26       0x2f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000d55       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000d77       0x8e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000e05       0x51 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000e56      0x103 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000f59       0x6a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00000fc3      0x1df /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000011a2       0x2e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000011d0       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000011e0       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00001238      0x26d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000014a5       0x28 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000014cd     0x11ae /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x0000267b      0x11f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x0000279a    0x15ea5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x0001863f       0x6d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000186ac       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000186ce       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000186e4       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000186f4       0x7b /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x0001876f       0x2a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018799       0x3c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000187d5       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018809       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x0001881f       0x9e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000188bd      0x364 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018c21      0x112 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018d33       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018d43       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018d59       0x4a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018da3       0x34 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018dd7       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018de7       0x58 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00018e3f      0x1e5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00019024       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x0001903a       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x00019050      0x170 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_macro   0x000191c0      0x110 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_macro   0x000192d0       0xf9 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_macro   0x000193c9      0x107 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_macro   0x000194d0      0x2fb /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x000197cb       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x000197db      0x242 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019a1d       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019a33       0x3c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019a6f       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019a7f       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019a8f       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019a9f       0x1c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019abb       0x52 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019b0d       0x22 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019b2f       0x10 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019b3f       0x52 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019b91       0xc1 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019c52       0x1c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019c6e       0x3d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019cab       0x35 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019ce0      0x12c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019e0c       0x16 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x00019e22      0x52f /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_macro   0x0001a351      0x11b /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_macro   0x0001a46c       0xeb /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_macro   0x0001a557      0x128 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_macro   0x0001a67f       0xf3 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+ .debug_macro   0x00000000      0x226 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000226      0xad2 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000cf8       0x2e Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000d26       0x2f Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000d55       0x22 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000d77       0x8e Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000e05       0x51 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000e56      0x103 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000f59       0x6a Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00000fc3      0x1df Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000011a2       0x2e Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000011d0       0x10 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000011e0       0x58 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00001238      0x26d Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000014a5       0x28 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000014cd     0x11ae Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x0000267b      0x11f Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x0000279a    0x15ea5 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x0001863f       0x6d Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000186ac       0x22 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000186ce       0x16 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000186e4       0x10 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000186f4       0x7b Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x0001876f       0x2a Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018799       0x3c Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000187d5       0x34 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018809       0x16 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x0001881f       0x9e Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000188bd      0x364 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018c21      0x112 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018d33       0x10 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018d43       0x16 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018d59       0x4a Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018da3       0x34 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018dd7       0x10 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018de7       0x58 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00018e3f      0x1e5 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00019024       0x16 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x0001903a       0x16 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x00019050      0x170 Firmware/build/Firmware/Core/Src/main.o
+ .debug_macro   0x000191c0       0xf9 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_macro   0x000192b9      0x110 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_macro   0x000193c9      0x107 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_macro   0x000194d0      0x2fb Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x000197cb       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x000197db      0x242 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019a1d       0x16 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019a33       0x3c Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019a6f       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019a7f       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019a8f       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019a9f       0x1c Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019abb       0x52 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019b0d       0x22 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019b2f       0x10 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019b3f       0x52 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019b91       0xc1 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019c52       0x1c Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019c6e       0x3d Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019cab       0x35 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019ce0      0x12c Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019e0c       0x16 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x00019e22      0x52f Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_macro   0x0001a351      0x11b Firmware/build/Firmware/Core/Src/utils.o
+ .debug_macro   0x0001a46c       0xeb Firmware/build/Firmware/Core/Src/tim.o
+ .debug_macro   0x0001a557      0x128 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_macro   0x0001a67f       0xf3 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
-.debug_line     0x00000000     0x2f6a
- .debug_line    0x00000000      0x8a0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_line    0x000008a0      0x640 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_line    0x00000ee0      0x4c3 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_line    0x000013a3      0x367 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_line    0x0000170a      0x6a3 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_line    0x00001dad      0x3fe /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_line    0x000021ab      0x42e /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_line    0x000025d9      0x4f0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_line    0x00002ac9      0x427 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_line    0x00002ef0       0x7a /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+.debug_line     0x00000000     0x307c
+ .debug_line    0x00000000      0x8cd Firmware/build/Firmware/Core/Src/main.o
+ .debug_line    0x000008cd      0x4f0 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_line    0x00000dbd      0x66d Firmware/build/Firmware/Core/Src/usart.o
+ .debug_line    0x0000142a      0x394 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_line    0x000017be      0x6d0 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_line    0x00001e8e      0x42b Firmware/build/Firmware/Core/Src/utils.o
+ .debug_line    0x000022b9      0x45b Firmware/build/Firmware/Core/Src/tim.o
+ .debug_line    0x00002714      0x51d Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_line    0x00002c31      0x44b Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
-.debug_str      0x00000000    0x8f9f5
- .debug_str     0x00000000    0x8f9f5 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
-                              0x8d4c0 (size before relaxing)
- .debug_str     0x0008f9f5    0x89d88 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_str     0x0008f9f5    0x8977b /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_str     0x0008f9f5    0x896aa /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .debug_str     0x0008f9f5    0x8f048 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_str     0x0008f9f5    0x8965d /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_str     0x0008f9f5    0x88fe3 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_str     0x0008f9f5    0x89725 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_str     0x0008f9f5    0x897a8 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
- .debug_str     0x0008f9f5       0x98 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
+.debug_str      0x00000000    0x8f9dd
+ .debug_str     0x00000000    0x8f9dd Firmware/build/Firmware/Core/Src/main.o
+                              0x8d4c9 (size before relaxing)
+ .debug_str     0x0008f9dd    0x89784 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_str     0x0008f9dd    0x89d91 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_str     0x0008f9dd    0x896b3 Firmware/build/Firmware/Core/Src/pins.o
+ .debug_str     0x0008f9dd    0x8f051 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_str     0x0008f9dd    0x89666 Firmware/build/Firmware/Core/Src/utils.o
+ .debug_str     0x0008f9dd    0x88fec Firmware/build/Firmware/Core/Src/tim.o
+ .debug_str     0x0008f9dd    0x8972e Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_str     0x0008f9dd    0x897b1 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
 .comment        0x00000000       0x46
- .comment       0x00000000       0x46 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
+ .comment       0x00000000       0x46 Firmware/build/Firmware/Core/Src/main.o
                                  0x47 (size before relaxing)
- .comment       0x00000046       0x47 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .comment       0x00000046       0x47 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .comment       0x00000046       0x47 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccq8FivT.o
- .comment       0x00000046       0x47 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .comment       0x00000046       0x47 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .comment       0x00000046       0x47 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .comment       0x00000046       0x47 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .comment       0x00000046       0x47 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+ .comment       0x00000046       0x47 Firmware/build/Firmware/Core/Src/gpio.o
+ .comment       0x00000046       0x47 Firmware/build/Firmware/Core/Src/usart.o
+ .comment       0x00000046       0x47 Firmware/build/Firmware/Core/Src/pins.o
+ .comment       0x00000046       0x47 Firmware/build/Firmware/Core/Src/syscalls.o
+ .comment       0x00000046       0x47 Firmware/build/Firmware/Core/Src/utils.o
+ .comment       0x00000046       0x47 Firmware/build/Firmware/Core/Src/tim.o
+ .comment       0x00000046       0x47 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .comment       0x00000046       0x47 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
 
 .debug_frame    0x00000000     0x1ae4
- .debug_frame   0x00000000       0xa4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccpI4aTk.o
- .debug_frame   0x000000a4       0xa4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccFa714b.o
- .debug_frame   0x00000148       0xa0 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc0Fclyr.o
- .debug_frame   0x000001e8       0xe4 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5xODWj.o
- .debug_frame   0x000002cc       0x4c /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccuN6sEl.o
- .debug_frame   0x00000318       0x40 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cc5j0SGo.o
- .debug_frame   0x00000358       0x30 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//cctduCdm.o
- .debug_frame   0x00000388       0x30 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccnEFTs3.o
+ .debug_frame   0x00000000       0xa4 Firmware/build/Firmware/Core/Src/main.o
+ .debug_frame   0x000000a4       0xa0 Firmware/build/Firmware/Core/Src/gpio.o
+ .debug_frame   0x00000144       0xa4 Firmware/build/Firmware/Core/Src/usart.o
+ .debug_frame   0x000001e8       0xe4 Firmware/build/Firmware/Core/Src/syscalls.o
+ .debug_frame   0x000002cc       0x4c Firmware/build/Firmware/Core/Src/utils.o
+ .debug_frame   0x00000318       0x40 Firmware/build/Firmware/Core/Src/tim.o
+ .debug_frame   0x00000358       0x30 Firmware/build/Firmware/Core/Src/hcsr04.o
+ .debug_frame   0x00000388       0x30 Firmware/build/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.o
  .debug_frame   0x000003b8       0x30 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-putchar.o)
  .debug_frame   0x000003e8       0x94 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-snprintf.o)
  .debug_frame   0x0000047c       0x20 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-errno.o)
@@ -2202,23 +2185,21 @@ LOAD /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../li
  .debug_frame   0x00001ac0       0x24 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
 
 .debug_line_str
-                0x00000000      0x257
+                0x00000000      0x1db
  .debug_line_str
-                0x00000000      0x257 /var/folders/td/crg93nqx0tl43gnzhryjc9qc0000gn/T//ccsWDAlA.o
-                                 0x7c (size before relaxing)
+                0x00000000      0x1db /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memchr.o)
+                                 0xe5 (size before relaxing)
  .debug_line_str
-                0x00000257       0xe5 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memchr.o)
+                0x000001db       0xeb /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-strlen.o)
  .debug_line_str
-                0x00000257       0xeb /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-strlen.o)
+                0x000001db       0xec /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
  .debug_line_str
-                0x00000257       0xec /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+                0x000001db       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
  .debug_line_str
-                0x00000257       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                0x000001db       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
  .debug_line_str
-                0x00000257       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+                0x000001db       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
  .debug_line_str
-                0x00000257       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
+                0x000001db       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_unorddf2.o)
  .debug_line_str
-                0x00000257       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_unorddf2.o)
- .debug_line_str
-                0x00000257       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+                0x000001db       0xd7 /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
