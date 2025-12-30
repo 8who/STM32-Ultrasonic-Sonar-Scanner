@@ -1,0 +1,10 @@
+CompileFlags:
+  Add: [
+      -isystem /usr/local/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/../arm-none-eabi/include
+      -ICore/Inc,
+      -IDrivers/CMSIS/Core/CMSIS/Core/Include,
+      -IDrivers/CMSIS/Device/ST/STM32F4xx/Include,
+      -DSTM32F407xx,
+      -mcpu=cortex-m4,
+      -mthumb,
+    ]
